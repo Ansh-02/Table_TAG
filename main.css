@@ -1,0 +1,23 @@
+/* style="background-im4age: url(http://static.dnaindia.com/sites/default/files/styles/full/public/2016/01/05/411375-international-cricket-council-icc-logo.jpg); background-repeat: no-repeat;  background-size: cover; " */
+
+table,tr,td,th{
+    border: 2px solid rgb(196, 246, 60);
+    border-collapse: collapse;
+    padding: 5px;
+    text-align: center;
+    color: rgb(8, 250, 101);
+}
+table,th{
+    color: black;
+
+}
+table{
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+   /* height: 100vh; */
+   background-image: url(https://cdn.wallpapersafari.com/77/47/frn0gm.jpg);
+   background-repeat: no-repeat;
+   height:150px;
+   width: auto;
+}
